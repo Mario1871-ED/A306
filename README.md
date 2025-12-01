@@ -3,8 +3,8 @@ Objetivo ## 📌 Objetivo del proyecto
 Digitalizar la firma de la Política de Protección de Datos mediante una tablet, sustituyendo el proceso manual en papel por un sistema digital seguro, práctico y verificable.
 
 ## 👥 Integrantes del equipo
--Mario Cabrera Cegrí
--Iker Lopez Alemany
+- Mario Cabrera Cegrí
+- Iker Lopez Alemany
 
 ## 🗂 Estructura del repositorio
 - /docs/ → Investigación, decisión, manuales.
