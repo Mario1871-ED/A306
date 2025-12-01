@@ -31,5 +31,4 @@ FUNCIONALIDADES
     Barata.
 
   INCONVENIENTES
-
     Editor PDF limitado.
