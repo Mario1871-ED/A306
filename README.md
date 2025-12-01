@@ -22,3 +22,11 @@ Documentación
 - Documentación especificada en sus respectivas ramas de trabajo
 
 Capturas de pantalla
+
+<img width="974" height="954" alt="imagen" src="https://github.com/user-attachments/assets/7a2c8411-b164-48cd-8c9d-b3a5e6d22aef" />
+<br>
+<img width="97" height="91" alt="imagen" src="https://github.com/user-attachments/assets/81fd5310-d38b-4cb8-a370-88fefe00a010" />
+<br>
+<img width="669" height="210" alt="imagen" src="https://github.com/user-attachments/assets/d98f12b7-1046-4802-84cc-be43e96e4b2e" />
+
+
