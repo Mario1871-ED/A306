@@ -1,6 +1,4 @@
-Proyecto A306
-Objetivo ## 📌 Objetivo del proyecto
-Digitalizar la firma de la Política de Protección de Datos mediante una tablet, sustituyendo el proceso manual en papel por un sistema digital seguro, práctico y verificable.
+El objetivo del proyecto es digitalizar la firma de la política de protección de ddatos mediante una tablet, sustituyendo el proceso manual en papel por un sistema digital seguro, práctico y verificable.
 
 ## 👥 Integrantes del equipo
 - Mario Cabrera Cegrí
