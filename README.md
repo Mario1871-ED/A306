@@ -3,6 +3,7 @@ El objetivo del proyecto es digitalizar la firma de la política de protección 
 Integrantes del equipo
 - Mario Cabrera Cegrí
 - Iker Lopez Alemany
+- Aaron Sanchez Jimenez
 
 Flujo de trabajo en GitHub
 - Ramas de trabajo:
